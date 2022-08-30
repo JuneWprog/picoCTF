@@ -18,10 +18,19 @@ warm                100%[================>]  10.68K  --.-KB/s    in 0s
 		./warm -h
 zsh: permission denied: ./warm
                                                                              
+Warm is not executable, use chmod +x (change mode)to permit it execute.
+
+r: read 1 
+
+w: write 2
+
+x: execute 4
 
 
 		chmod +x warm
-                                                                             
+		
+or 		
+		chmod 777 warm
 
 
 		./warm --help
