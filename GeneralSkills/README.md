@@ -1,5 +1,6 @@
 ## General Skills (34)
-[Obedient Cat](https://github.com/JuneWprog/picoCTF/tree/master/GeneralSkills/Obedient%20Cat)
+## Obedient Cat
+## [Obedient Cat](https://github.com/JuneWprog/picoCTF/tree/master/GeneralSkills/Obedient%20Cat)
 
 ### Python Wrangling
 [Python Wrangling](https://github.com/JuneWprog/picoCTF/tree/master/GeneralSkills/Python%20Wrangling)
