@@ -1,7 +1,8 @@
 # Python Wrangling
 
 -Download python
-	wget https://mercury.picoctf.net/static/8e33ede04d02f3765b8c6a6e24d72733/ende.py    
+
+		wget https://mercury.picoctf.net/static/8e33ede04d02f3765b8c6a6e24d72733/ende.py    
 --2022-08-30 13:09:35--  https://mercury.picoctf.net/static/8e33ede04d02f3765b8c6a6e24d72733/ende.py
 Resolving mercury.picoctf.net (mercury.picoctf.net)... 18.189.209.142
 Connecting to mercury.picoctf.net (mercury.picoctf.net)|18.189.209.142|:443... connected.
