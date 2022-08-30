@@ -16,6 +16,7 @@ ende.py             100%[================>]   1.30K  --.-KB/s    in 0s
 
                                                                              
 Download password
+
 		wget https://mercury.picoctf.net/static/8e33ede04d02f3765b8c6a6e24d72733/pw.txt 
 --2022-08-30 13:11:42--  https://mercury.picoctf.net/static/8e33ede04d02f3765b8c6a6e24d72733/pw.txt
 Resolving mercury.picoctf.net (mercury.picoctf.net)... 18.189.209.142
@@ -30,6 +31,7 @@ pw.txt              100%[================>]      33  --.-KB/s    in 0s
 
                                                                              
 Download encoded text
+
 		wget https://mercury.picoctf.net/static/8e33ede04d02f3765b8c6a6e24d72733/flag.txt.en
 --2022-08-30 13:12:59--  https://mercury.picoctf.net/static/8e33ede04d02f3765b8c6a6e24d72733/flag.txt.en
 Resolving mercury.picoctf.net (mercury.picoctf.net)... 18.189.209.142
@@ -44,14 +46,17 @@ flag.txt.en         100%[================>]     140  --.-KB/s    in 0s
 
                                                                              
 Run the python
+
 		python ende.py
 Usage: ende.py (-e/-d) [file]
                                                                              
 Check the password
+
 		cat pw.txt
 aa821c16aa821c16aa821c16aa821c16
                                                                           
 Run python
+
 		python ende.py -d flag.txt.en
 Please enter the password:aa821c16aa821c16aa821c16aa821c16
 picoCTF{4p0110_1n_7h3_h0us3_aa821c16}
