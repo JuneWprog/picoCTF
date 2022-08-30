@@ -4,7 +4,7 @@
 ### Python Wrangling
 [Python Wrangling](https://github.com/JuneWprog/picoCTF/tree/master/GeneralSkills/Python%20Wrangling)
 ### Wave a flag
-[Wave a flag](https://github.com/JuneWprog/picoCTF/tree/master/GeneralSkills/Wave a flag)
+[Wave a flag](https://github.com/JuneWprog/picoCTF/tree/master/GeneralSkills/Wave%20a%20flag)
 ### Nice netcat...
 [Nice netcat](https://github.com/JuneWprog/picoCTF/tree/master/GeneralSkills/Nice%20Netcat)
 ### Static ain't always noise
