@@ -17,7 +17,7 @@ Category: General
 ## Approach
 
 First I connected to `mercury.picoctf.net 43239` on a Linux terminal.
-
+                nc mercury.picoctf.net 43239
 It gave these numbers:
 > 112
 105
@@ -63,7 +63,7 @@ It gave these numbers:
 10
 
 These numbers are most likely ASCII values for text. 
-
+                nc mercury.picoctf.net 43239> nicenetcat
 ```python
 f= open("nicenetcat","r")
 lines =f.readlines()
@@ -76,22 +76,10 @@ print(result)
 ## CMD lines
 
 
-
-──(kali㉿kali)-[~]
-└─$  nc mercury.picoctf.net 43239 > nicenetcat
-
-┌──(kali㉿kali)-[~]
-└─$ cat nicecat.py     
-f= open("nicenetcat","r")
-lines =f.readlines()
-result=""
-for line in lines:
-        result+=chr(int(line.strip("\n")))
-print(result)
+                nc mercury.picoctf.net 43239 > nicenetcat
 
 
-┌──(kali㉿kali)-[~]
-└─$ python nicecat.py
+                python nicecat.py
 picoCTF{g00d_k1tty!_n1c3_k1tty!_7c0821f5}
 
 ## flag picoCTF{g00d_k1tty!_n1c3_k1tty!_7c0821f5}
