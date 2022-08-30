@@ -1,12 +1,12 @@
 ## General Skills (34)
-[Obedient Cat]{https://github.com/JuneWprog/picoCTF/tree/master/GeneralSkills/Obedient%20Cat}
+[Obedient Cat](https://github.com/JuneWprog/picoCTF/tree/master/GeneralSkills/Obedient%20Cat)
 
 ### Python Wrangling
-
+[Python Wrangling](https://github.com/JuneWprog/picoCTF/tree/master/GeneralSkills/Python%20Wrangling)
 ### Wave a flag
-
+[Wave a flag](https://github.com/JuneWprog/picoCTF/tree/master/GeneralSkills/Wave a flag)
 ### Nice netcat...
-
+[Nice netcat](https://github.com/JuneWprog/picoCTF/tree/master/GeneralSkills/Nice%20Netcat)
 ### Static ain't always noise
 
 ### Tab, Tab, Attack
