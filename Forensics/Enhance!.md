@@ -1,19 +1,17 @@
-# picoCTF 2022 Enhance! (Forensics 100 points)
+#  Enhance! 
 The challenge is the following,
 
-![Figure 1](img/challenge.png) 
+![image](https://user-images.githubusercontent.com/77699526/187841634-8078a5b5-ee6f-4683-b1aa-eea7fcc1b964.png)
 
 We are also given the file [drawing.flag.svg](./files/drawing.flag.svg). 
 
-![Figure 1](files/drawing.flag.svg)
 
-Scalable Vector Graphics (SVG) is an XML-based vector image format for defining two-dimensional graphics,
+Scalable Vector Graphics (SVG) is an **XML-based vector image** format for defining two-dimensional graphics,
  having support for interactivity and animation. 
-SVG images are defined in a vector graphics format and stored in XML text files.
+SVG images are defined in a vector graphics format and **stored in XML text files.**
 
 
-
-I decided to view the contents of the file using,
+I viewed the contents of the file using,
 
 `$ cat drawing.flag.svg `
 
