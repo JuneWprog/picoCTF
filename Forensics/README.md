@@ -17,7 +17,7 @@
 
 ### advanced-potion-making
 
-### Enhance!
+### [Enhance!](https://github.com/JuneWprog/picoCTF/blob/master/Forensics/Enhance!.md)
 
 ### File types
 
